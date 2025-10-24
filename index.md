@@ -5,4 +5,4 @@ permalink: /
 
 # Headache Clarity
 - [Privacy Policy](https://github.com/SanjeevChander/ClarityPages/blob/main/privacy.md)
-- [Support](/support)
+- [Support](https://github.com/SanjeevChander/ClarityPages/blob/main/support.md)
